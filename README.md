@@ -1,5 +1,5 @@
 # Bidirectional Long Short Term Memory (BiLSTM)
-This repository implements a Bidirectional Long Short Term Memory (BiLSTM) for performing Parts-of-Speech (POS) Tagging on Assamese-English code-mixed texts.
+This repository implements a Bidirectional Long Short Term Memory (BiLSTM) model for performing Parts-of-Speech (POS) Tagging on Assamese-English code-mixed texts.
 
 ## Introduction to Parts-of-Speech (PoS) Tagging
 PoS tagging is the process of identifying and labeling grammatical roles of words in texts, supporting applications like machine translation and sentiment analysis. While different languages may have their own PoS tags, I have used my own custom PoS tags for this model. The Table below defines the custom PoS tags used in this model-
@@ -27,8 +27,8 @@ I used Google Colab for this Model.
 5. Run the code.
 6. The output will be displayed and saved as a different CSV file.
 
-You can also VScode or any other platform (this code is just a python a code)
-1. In this case, you will have to make sure you have the necessary libraries installed and dictionaries loaded correctly.
+You can also VScode or any other platform (this code is just a python code)
+1. In this case, you will have to make sure you have the necessary libraries installed and datasets loaded correctly.
 2. Run the program for the output.
    
 ## Additional Notes from me
